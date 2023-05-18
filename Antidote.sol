@@ -1,5 +1,7 @@
 /*
 
+//This code is still for test only forking from other memecoin. This is save for futuire purposes only!
+
 // Sources flattened with hardhat v2.7.0 https://hardhat.org
 
 // File @openzeppelin/contracts/utils/Context.sol@v4.4.0
