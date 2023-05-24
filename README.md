@@ -11,3 +11,7 @@ It is a transparent project. The team will be open about their plans and will ke
 It is a decentralized project. The team will not have control over the project after it is launched. The community will be in control of the project.
 
 Antidote is a new and exciting project with a lot of potential. The team is passionate about memecoins and they are committed to using them for good. If you are interested in supporting a project that is trying to make a positive impact on the world, then you should consider supporting Antidote.
+
+
+
+![image](https://github.com/antidoteforvenom/Antidote/assets/132961724/0bba3ccb-aedc-4e07-a109-3f244ac21294)
