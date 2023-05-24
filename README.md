@@ -1,15 +1,13 @@
-ANTIDOTE
+Antidote maybe we call it memecoin for today that is built on top of the Venom Network. It is still under development, but the team has big plans for the project. In the near future, they will be releasing a staking function that will allow users to earn governance tokens as a reward for staking their tokens. The team also has a number of other ideas that they plan to implement, such as a DAO and liquid staking.
 
+The goal of Antidote is to create a transparent and community-driven memecoin. The team believes that memecoins have the potential to be more than just jokes. They can be used to build powerful communities and to create real value for users. Antidote is committed to using memecoins for good, and they believe that the project has the potential to make a positive impact on the world.
 
-It is the first memecoin that will drive through people's hearts, built on top of the Venom network.
-The antidote will bring a smile to people's faces for anyone who engages in it.
-This project will continually grow as time passes, and the community will decide on the changes that will happen.
+Here are some additional details about Antidote:
 
+It is a community-driven project. The team is committed to working with the community to shape the future of the project.
 
-The total supply of this token is "TBA" $ANTI, which will be distributed fairly to certain desired projects, pools, contributors, etc.
-This is still a young project that has a lot of room to grow in this ecosystem. 
+It is a transparent project. The team will be open about their plans and will keep the community updated on their progress.
 
-And we're looking forward to more development and support from the community in order to bring the greatness of memecoin back to how it used to be.
+It is a decentralized project. The team will not have control over the project after it is launched. The community will be in control of the project.
 
-
-Testnet Contract still underdevelopment: 0:126b7094a0494ddabc07b0a81551b3083fc069492e1029e9feb423e8591ebd09
+Antidote is a new and exciting project with a lot of potential. The team is passionate about memecoins and they are committed to using them for good. If you are interested in supporting a project that is trying to make a positive impact on the world, then you should consider supporting Antidote.
